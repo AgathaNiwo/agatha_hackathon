@@ -6,7 +6,7 @@ and while I have understood now how Tensorflow models work, I still have yet to 
 
 
 
-Use Case: Check 
+Use Case: Check Human activity status using Accelerometer
 
 Participating Actors
 The use case is initiated by an app owner.
