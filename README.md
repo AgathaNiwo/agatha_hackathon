@@ -27,3 +27,4 @@ The system uses the Tensor flow model generated to give probabilities for each.
 The person is allowed to select the right status.
 The system stores the right status, with a time stamp and person's id.
 The system learns from the new information that can be incorporated in the Tensorflow model
+ 
