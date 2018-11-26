@@ -3,8 +3,6 @@
 The 3d_viewer.py code and data was sourced from http://aqibsaeed.github.io/2016-11-04-human-activity-recognition-cnn/.
 This was to get me used to Tensor flow models and code from a similar case study. Unfortunately, I was still on a learning curve and while I have understood now how Tensorflow models work, I still have yet to implement a similar model.
 
-***The contributor amuhebwa is just the laptop I was using for commit
-
 Use Case: Check Human activity status using Accelerometer
 
 Participating Actors
